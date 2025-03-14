@@ -3,9 +3,9 @@ package mongo
 import (
 	"context"
 	"fmt"
+	"gitlab.bobbylive.cn/kongmengcheng/pkg/config"
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/mongo/options"
-	"momo-server-go/pkg/config"
 	"time"
 )
 

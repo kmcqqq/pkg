@@ -2,7 +2,7 @@ package aliyun
 
 import (
 	sls "github.com/aliyun/aliyun-log-go-sdk"
-	"momo-server-go/pkg/config"
+	"gitlab.bobbylive.cn/kongmengcheng/pkg/config"
 	"time"
 )
 

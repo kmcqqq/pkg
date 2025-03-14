@@ -1,7 +1,7 @@
 package queue
 
 import (
-	"momo-server-go/pkg/utils"
+	"gitlab.bobbylive.cn/kongmengcheng/pkg/utils"
 	"time"
 )
 

@@ -3,7 +3,7 @@ package queue
 import (
 	"context"
 	"github.com/streadway/amqp"
-	"momo-server-go/pkg/config"
+	"gitlab.bobbylive.cn/kongmengcheng/pkg/config"
 	"time"
 )
 

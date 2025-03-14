@@ -1,0 +1,827 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GoORMHelperCache">
+    <option name="schemaMapping">
+      <map>
+        <entry key="APIConfig">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/config/config.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="AliCloudClient">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/aliyun/aliyun.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="AliCloudConfig">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/config/third_party.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="BSClient">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/baishun/baishun.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="BaiShunConfig">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/config/third_party.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="BalanceResponse">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/xendit/xendit.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="BinanceConfig">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/config/third_party.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="ChannelProperties">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/xendit/xendit.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Client">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/binance/binance.go" />
+              <option value="file://$PROJECT_DIR$/coda/coda.go" />
+              <option value="file://$PROJECT_DIR$/payermax/payermax.go" />
+              <option value="file://$PROJECT_DIR$/xendit/xendit.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Clients">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/clients/clients.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="CodaConfig">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/config/third_party.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Config">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/config/config.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="DatabaseConfig">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/config/config.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="DingDingMessage">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/webhook/webhook.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="FeiShuMessage">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/webhook/webhook.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="GoodsDetails">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/binance/binance.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="HuanXinConfig">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/config/third_party.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="HxClient">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/huanxin/huanxin.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="InvoiceCallback">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/xendit/xendit.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="InvoiceNotify">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/xendit/xendit.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="InvoiceRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/xendit/xendit.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="InvoiceResponse">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/xendit/xendit.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="LogConfig">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/config/config.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Message">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/queue/queue.go" />
+              <option value="file://$PROJECT_DIR$/webhook/webhook.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="MessageService">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/queue/msg.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="NotifyMsg">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/queue/msg.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="PayConfig">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/config/third_party.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="PayNotify">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/binance/binance.go" />
+              <option value="file://$PROJECT_DIR$/coda/coda.go" />
+              <option value="file://$PROJECT_DIR$/payermax/payermax.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="PayNotifySign">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/binance/binance.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="PayOrder">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/coda/coda.go" />
+              <option value="file://$PROJECT_DIR$/payermax/payermax.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="PayOrderRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/binance/binance.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="PayOrderResponse">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/binance/binance.go" />
+              <option value="file://$PROJECT_DIR$/coda/coda.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="PayOrderResponseData">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/payermax/payermax.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="PayOutNotify">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/payermax/payermax.go" />
+              <option value="file://$PROJECT_DIR$/xendit/xendit.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="PayQuery">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/payermax/payermax.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="PayQueryResponseData">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/payermax/payermax.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="PayerMaxConfig">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/config/third_party.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="PayoutRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/xendit/xendit.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="PayoutResponse">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/xendit/xendit.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="QueryOrderResult">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/binance/binance.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="QueryPayOrderRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/binance/binance.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="RabbitMQ">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/queue/rabbitmq.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="RabbitMQConsumer">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/queue/rabbitmq.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="RateLimitConfig">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/config/config.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="ReceiptNotification">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/xendit/xendit.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="RemitRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/payermax/payermax.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="RemitResponseData">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/payermax/payermax.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="RequestData">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/payermax/payermax.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="RequestParam">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/coda/coda.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Response">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/binance/binance.go" />
+              <option value="file://$PROJECT_DIR$/payermax/payermax.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="ServerConfig">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/config/config.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="ServerInfo">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/config/config.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="ThirdPartyConfig">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/config/third_party.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="WeChatMessage">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/webhook/webhook.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="XenditConfig">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/config/third_party.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="cacheService">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/redis/cacheService.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="certificates">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/binance/binance.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="ecb">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/utils/security.go" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="scannedPathMapping">
+      <map>
+        <entry key="file://$PROJECT_DIR$/aliyun/aliyun.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1741952857469" />
+              <option name="schema">
+                <list>
+                  <option value="AliCloudClient" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/baishun/baishun.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1741952857580" />
+              <option name="schema">
+                <list>
+                  <option value="BSClient" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/binance/binance.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1741952857492" />
+              <option name="schema">
+                <list>
+                  <option value="Client" />
+                  <option value="PayOrderRequest" />
+                  <option value="GoodsDetails" />
+                  <option value="Response" />
+                  <option value="PayOrderResponse" />
+                  <option value="QueryPayOrderRequest" />
+                  <option value="QueryOrderResult" />
+                  <option value="certificates" />
+                  <option value="PayNotify" />
+                  <option value="PayNotifySign" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/clients/clients.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1741952857584" />
+              <option name="schema">
+                <list>
+                  <option value="Clients" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/coda/coda.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1741952857429" />
+              <option name="schema">
+                <list>
+                  <option value="Client" />
+                  <option value="PayOrder" />
+                  <option value="PayOrderResponse" />
+                  <option value="RequestParam" />
+                  <option value="PayNotify" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/config/config.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1741765461685" />
+              <option name="schema">
+                <list>
+                  <option value="Config" />
+                  <option value="ServerConfig" />
+                  <option value="APIConfig" />
+                  <option value="DatabaseConfig" />
+                  <option value="ServerInfo" />
+                  <option value="LogConfig" />
+                  <option value="RateLimitConfig" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/config/live.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1741765461685" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/config/third_party.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1741765494624" />
+              <option name="schema">
+                <list>
+                  <option value="ThirdPartyConfig" />
+                  <option value="BaiShunConfig" />
+                  <option value="AliCloudConfig" />
+                  <option value="HuanXinConfig" />
+                  <option value="PayConfig" />
+                  <option value="XenditConfig" />
+                  <option value="PayerMaxConfig" />
+                  <option value="CodaConfig" />
+                  <option value="BinanceConfig" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/database/mssql.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1741952858774" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/httpHelper/http.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1741952858765" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/huanxin/huanxin.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1741952857548" />
+              <option name="schema">
+                <list>
+                  <option value="HxClient" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/logger/logger.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1741952858776" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/mongo/mongo.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1741952858783" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/payermax/payermax.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1741952857441" />
+              <option name="schema">
+                <list>
+                  <option value="Client" />
+                  <option value="RequestData" />
+                  <option value="Response" />
+                  <option value="PayOrder" />
+                  <option value="PayOrderResponseData" />
+                  <option value="PayQuery" />
+                  <option value="PayQueryResponseData" />
+                  <option value="PayNotify" />
+                  <option value="RemitRequest" />
+                  <option value="RemitResponseData" />
+                  <option value="PayOutNotify" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/queue/msg.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1741952857558" />
+              <option name="schema">
+                <list>
+                  <option value="NotifyMsg" />
+                  <option value="MessageService" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/queue/queue.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1741952857573" />
+              <option name="schema">
+                <list>
+                  <option value="Message" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/queue/rabbitmq.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1741952857588" />
+              <option name="schema">
+                <list>
+                  <option value="RabbitMQ" />
+                  <option value="RabbitMQConsumer" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/redis/cacheService.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1741952858760" />
+              <option name="schema">
+                <list>
+                  <option value="cacheService" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/redis/redis.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1741952857465" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/response/bsapi.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1739956809529" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/response/liveapi.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1739956809529" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/utils/format.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1739956809529" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/utils/helper.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1741765461688" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/utils/json.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1739956809530" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/utils/md5.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1740136945769" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/utils/random.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1739956809530" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/utils/security.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1741932562929" />
+              <option name="schema">
+                <list>
+                  <option value="ecb" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/webhook/webhook.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1739956809533" />
+              <option name="schema">
+                <list>
+                  <option value="Message" />
+                  <option value="DingDingMessage" />
+                  <option value="FeiShuMessage" />
+                  <option value="WeChatMessage" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/xendit/xendit.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1741952857511" />
+              <option name="schema">
+                <list>
+                  <option value="Client" />
+                  <option value="InvoiceRequest" />
+                  <option value="InvoiceResponse" />
+                  <option value="InvoiceNotify" />
+                  <option value="PayoutRequest" />
+                  <option value="ReceiptNotification" />
+                  <option value="ChannelProperties" />
+                  <option value="PayoutResponse" />
+                  <option value="BalanceResponse" />
+                  <option value="InvoiceCallback" />
+                  <option value="PayOutNotify" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="tableStructMapping">
+      <map>
+        <entry key="ali_cloud_client" value="AliCloudClient" />
+        <entry key="ali_cloud_config" value="AliCloudConfig" />
+        <entry key="api_config" value="APIConfig" />
+        <entry key="bai_shun_config" value="BaiShunConfig" />
+        <entry key="balance_response" value="BalanceResponse" />
+        <entry key="binance_config" value="BinanceConfig" />
+        <entry key="bs_client" value="BSClient" />
+        <entry key="cache_service" value="cacheService" />
+        <entry key="certificates" value="certificates" />
+        <entry key="channel_properties" value="ChannelProperties" />
+        <entry key="client" value="Client" />
+        <entry key="clients" value="Clients" />
+        <entry key="coda_config" value="CodaConfig" />
+        <entry key="config" value="Config" />
+        <entry key="database_config" value="DatabaseConfig" />
+        <entry key="ding_ding_message" value="DingDingMessage" />
+        <entry key="ecb" value="ecb" />
+        <entry key="fei_shu_message" value="FeiShuMessage" />
+        <entry key="goods_details" value="GoodsDetails" />
+        <entry key="huan_xin_config" value="HuanXinConfig" />
+        <entry key="hx_client" value="HxClient" />
+        <entry key="invoice_callback" value="InvoiceCallback" />
+        <entry key="invoice_notify" value="InvoiceNotify" />
+        <entry key="invoice_request" value="InvoiceRequest" />
+        <entry key="invoice_response" value="InvoiceResponse" />
+        <entry key="log_config" value="LogConfig" />
+        <entry key="message" value="Message" />
+        <entry key="message_service" value="MessageService" />
+        <entry key="notify_msg" value="NotifyMsg" />
+        <entry key="pay_config" value="PayConfig" />
+        <entry key="pay_notify" value="PayNotify" />
+        <entry key="pay_notify_sign" value="PayNotifySign" />
+        <entry key="pay_order" value="PayOrder" />
+        <entry key="pay_order_request" value="PayOrderRequest" />
+        <entry key="pay_order_response" value="PayOrderResponse" />
+        <entry key="pay_order_response_data" value="PayOrderResponseData" />
+        <entry key="pay_out_notify" value="PayOutNotify" />
+        <entry key="pay_query" value="PayQuery" />
+        <entry key="pay_query_response_data" value="PayQueryResponseData" />
+        <entry key="payer_max_config" value="PayerMaxConfig" />
+        <entry key="payout_request" value="PayoutRequest" />
+        <entry key="payout_response" value="PayoutResponse" />
+        <entry key="query_order_result" value="QueryOrderResult" />
+        <entry key="query_pay_order_request" value="QueryPayOrderRequest" />
+        <entry key="rabbit_mq" value="RabbitMQ" />
+        <entry key="rabbit_mq_consumer" value="RabbitMQConsumer" />
+        <entry key="rate_limit_config" value="RateLimitConfig" />
+        <entry key="receipt_notification" value="ReceiptNotification" />
+        <entry key="remit_request" value="RemitRequest" />
+        <entry key="remit_response_data" value="RemitResponseData" />
+        <entry key="request_data" value="RequestData" />
+        <entry key="request_param" value="RequestParam" />
+        <entry key="response" value="Response" />
+        <entry key="server_config" value="ServerConfig" />
+        <entry key="server_info" value="ServerInfo" />
+        <entry key="third_party_config" value="ThirdPartyConfig" />
+        <entry key="we_chat_message" value="WeChatMessage" />
+        <entry key="xendit_config" value="XenditConfig" />
+      </map>
+    </option>
+    <option name="lastTimeChecked" value="1741952473216" />
+  </component>
+</project>

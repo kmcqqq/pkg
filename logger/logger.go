@@ -2,10 +2,10 @@ package logger
 
 import (
 	"fmt"
+	"gitlab.bobbylive.cn/kongmengcheng/pkg/config"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
 	"gopkg.in/natefinch/lumberjack.v2"
-	"momo-server-go/pkg/config"
 	"os"
 	"path/filepath"
 	"time"

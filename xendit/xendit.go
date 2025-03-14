@@ -3,9 +3,9 @@ package xendit
 import (
 	"errors"
 	"fmt"
-	"momo-server-go/pkg/config"
-	"momo-server-go/pkg/httpHelper"
-	"momo-server-go/pkg/utils"
+	"gitlab.bobbylive.cn/kongmengcheng/pkg/config"
+	"gitlab.bobbylive.cn/kongmengcheng/pkg/httpHelper"
+	"gitlab.bobbylive.cn/kongmengcheng/pkg/utils"
 	"time"
 )
 

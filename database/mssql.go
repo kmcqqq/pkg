@@ -2,9 +2,9 @@ package database
 
 import (
 	"fmt"
+	"gitlab.bobbylive.cn/kongmengcheng/pkg/config"
 	"gorm.io/driver/sqlserver"
 	"gorm.io/gorm"
-	"momo-server-go/pkg/config"
 )
 
 func NewMsSqlConnection(cfg *config.DatabaseConfig) (*gorm.DB, error) {

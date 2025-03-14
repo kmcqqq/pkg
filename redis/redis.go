@@ -4,8 +4,8 @@ import (
 	"context"
 	"fmt"
 	"github.com/redis/go-redis/v9"
-	"momo-server-go/pkg/config"
-	"momo-server-go/pkg/utils"
+	"gitlab.bobbylive.cn/kongmengcheng/pkg/config"
+	"gitlab.bobbylive.cn/kongmengcheng/pkg/utils"
 	"time"
 )
 

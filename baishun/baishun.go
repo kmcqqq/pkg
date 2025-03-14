@@ -4,8 +4,8 @@ import (
 	"crypto/md5"
 	"encoding/hex"
 	"fmt"
-	"momo-server-go/pkg/config"
-	"momo-server-go/pkg/utils"
+	"gitlab.bobbylive.cn/kongmengcheng/pkg/config"
+	"gitlab.bobbylive.cn/kongmengcheng/pkg/utils"
 )
 
 type BSClient struct {

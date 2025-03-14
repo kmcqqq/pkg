@@ -4,8 +4,8 @@ import (
 	"context"
 	"fmt"
 	"github.com/streadway/amqp"
-	"momo-server-go/pkg/config"
-	"momo-server-go/pkg/logger"
+	"gitlab.bobbylive.cn/kongmengcheng/pkg/config"
+	"gitlab.bobbylive.cn/kongmengcheng/pkg/logger"
 	"time"
 )
 

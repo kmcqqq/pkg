@@ -1,10 +1,10 @@
 package clients
 
 import (
-	"momo-server-go/pkg/aliyun"
-	"momo-server-go/pkg/baishun"
-	"momo-server-go/pkg/config"
-	"momo-server-go/pkg/huanxin"
+	"gitlab.bobbylive.cn/kongmengcheng/pkg/aliyun"
+	"gitlab.bobbylive.cn/kongmengcheng/pkg/baishun"
+	"gitlab.bobbylive.cn/kongmengcheng/pkg/config"
+	"gitlab.bobbylive.cn/kongmengcheng/pkg/huanxin"
 	"sync"
 )
 
