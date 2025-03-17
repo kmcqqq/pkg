@@ -1,4 +1,4 @@
-module gitlab.bobbylive.cn/kongmengcheng/pkg
+module github.com/kmcqqq/pkg
 
 go 1.20
 
