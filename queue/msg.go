@@ -1,7 +1,7 @@
 package queue
 
 import (
-	"gitlab.bobbylive.cn/kongmengcheng/pkg/utils"
+	"github.com/kmcqqq/pkg/utils"
 	"time"
 )
 

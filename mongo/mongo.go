@@ -3,7 +3,7 @@ package mongo
 import (
 	"context"
 	"fmt"
-	"gitlab.bobbylive.cn/kongmengcheng/pkg/config"
+	"github.com/kmcqqq/pkg/config"
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/mongo/options"
 	"time"

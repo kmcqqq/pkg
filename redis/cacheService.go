@@ -2,8 +2,8 @@ package redis
 
 import (
 	"context"
+	"github.com/kmcqqq/pkg/utils"
 	"github.com/redis/go-redis/v9"
-	"gitlab.bobbylive.cn/kongmengcheng/pkg/utils"
 	"gorm.io/gorm"
 	"time"
 )

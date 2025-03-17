@@ -3,9 +3,9 @@ package queue
 import (
 	"context"
 	"fmt"
+	"github.com/kmcqqq/pkg/config"
+	"github.com/kmcqqq/pkg/logger"
 	"github.com/streadway/amqp"
-	"gitlab.bobbylive.cn/kongmengcheng/pkg/config"
-	"gitlab.bobbylive.cn/kongmengcheng/pkg/logger"
 	"time"
 )
 

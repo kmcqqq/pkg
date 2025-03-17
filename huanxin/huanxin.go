@@ -3,9 +3,9 @@ package huanxin
 import (
 	"errors"
 	"fmt"
-	"gitlab.bobbylive.cn/kongmengcheng/pkg/config"
-	"gitlab.bobbylive.cn/kongmengcheng/pkg/httpHelper"
-	"gitlab.bobbylive.cn/kongmengcheng/pkg/utils"
+	"github.com/kmcqqq/pkg/config"
+	"github.com/kmcqqq/pkg/httpHelper"
+	"github.com/kmcqqq/pkg/utils"
 	"strings"
 )
 

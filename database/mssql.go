@@ -2,7 +2,7 @@ package database
 
 import (
 	"fmt"
-	"gitlab.bobbylive.cn/kongmengcheng/pkg/config"
+	"github.com/kmcqqq/pkg/config"
 	"gorm.io/driver/sqlserver"
 	"gorm.io/gorm"
 )

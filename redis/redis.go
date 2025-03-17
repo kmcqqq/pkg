@@ -3,9 +3,9 @@ package redis
 import (
 	"context"
 	"fmt"
+	"github.com/kmcqqq/pkg/config"
+	"github.com/kmcqqq/pkg/utils"
 	"github.com/redis/go-redis/v9"
-	"gitlab.bobbylive.cn/kongmengcheng/pkg/config"
-	"gitlab.bobbylive.cn/kongmengcheng/pkg/utils"
 	"time"
 )
 

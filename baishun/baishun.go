@@ -4,8 +4,8 @@ import (
 	"crypto/md5"
 	"encoding/hex"
 	"fmt"
-	"gitlab.bobbylive.cn/kongmengcheng/pkg/config"
-	"gitlab.bobbylive.cn/kongmengcheng/pkg/utils"
+	"github.com/kmcqqq/pkg/config"
+	"github.com/kmcqqq/pkg/utils"
 )
 
 type BSClient struct {

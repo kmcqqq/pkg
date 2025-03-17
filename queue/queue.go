@@ -2,8 +2,8 @@ package queue
 
 import (
 	"context"
+	"github.com/kmcqqq/pkg/config"
 	"github.com/streadway/amqp"
-	"gitlab.bobbylive.cn/kongmengcheng/pkg/config"
 	"time"
 )
 

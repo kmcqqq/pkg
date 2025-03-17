@@ -1,10 +1,10 @@
 package clients
 
 import (
-	"gitlab.bobbylive.cn/kongmengcheng/pkg/aliyun"
-	"gitlab.bobbylive.cn/kongmengcheng/pkg/baishun"
-	"gitlab.bobbylive.cn/kongmengcheng/pkg/config"
-	"gitlab.bobbylive.cn/kongmengcheng/pkg/huanxin"
+	"github.com/kmcqqq/pkg/aliyun"
+	"github.com/kmcqqq/pkg/baishun"
+	"github.com/kmcqqq/pkg/config"
+	"github.com/kmcqqq/pkg/huanxin"
 	"sync"
 )
 

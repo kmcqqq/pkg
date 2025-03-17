@@ -2,7 +2,7 @@ package logger
 
 import (
 	"fmt"
-	"gitlab.bobbylive.cn/kongmengcheng/pkg/config"
+	"github.com/kmcqqq/pkg/config"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
 	"gopkg.in/natefinch/lumberjack.v2"
